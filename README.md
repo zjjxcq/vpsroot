@@ -11,4 +11,4 @@ wget -N https://raw.githubusercontents.com/ygkkkyb/vpsroot/main/root.sh && bash 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/kkkyg/vpsroot.svg)](https://starchart.cc/kkkyg/vpsroot)
+[![Stargazers over time](https://starchart.cc/ygkkkyb/vpsroot.svg)](https://starchart.cc/ygkkkyb/vpsroot)
