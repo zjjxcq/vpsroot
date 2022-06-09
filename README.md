@@ -2,6 +2,12 @@
 
 一键脚本：
 
+bitbucket版
+```
+wget -N https://bitbucket.org/rwkgyg/vpsroot/raw/main/root.sh && bash root.sh
+```
+
+github版
 ```
 wget -N https://raw.githubusercontents.com/rwkgyg/vpsroot/main/root.sh && bash root.sh
 ```
