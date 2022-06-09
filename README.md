@@ -3,12 +3,9 @@
 一键脚本：
 
 ```
-wget -N https://raw.githubusercontents.com/ygkkkyb/vpsroot/main/root.sh && bash root.sh
+wget -N https://raw.githubusercontents.com/rwkgyg/vpsroot/main/root.sh && bash root.sh
 ```
 
 相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/02/githubvpsrootrooteuservhax.html)
 
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/ygkkkyb/vpsroot.svg)](https://starchart.cc/ygkkkyb/vpsroot)
