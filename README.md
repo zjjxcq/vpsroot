@@ -12,13 +12,15 @@ github版
 wget -N https://raw.githubusercontents.com/zjjxcq/vpsroot/main/root.sh && bash root.sh
 ```
 
-相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/02/githubvpsrootrooteuservhax.html)
-
-
 CFwarp一键脚本：
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ```
+x-ui-yg-纯IPV4/纯IPV6的VPS直接运行一键脚本:
+```
+wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
+```
 
+相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/02/githubvpsrootrooteuservhax.html)
 
 
