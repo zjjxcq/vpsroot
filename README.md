@@ -21,6 +21,11 @@ x-ui-yg-纯IPV4/纯IPV6的VPS直接运行一键脚本:
 wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 ```
 
+
+CFwarp (https://gitlab.com/rwkgyg/x-ui-yg)
+
+x-ui-yg(https://gitlab.com/rwkgyg/x-ui-yg)
+
 相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/02/githubvpsrootrooteuservhax.html)
 
 
